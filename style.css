@@ -2,6 +2,7 @@
   box-sizing:border-box;
 }
 
+/* header and footer spacing, fonts, padding */
 header h1{
   margin: 0px;
   padding-top: 15px;
@@ -18,6 +19,7 @@ footer{
   padding: 1px;
 }
 
+/* image centering and "circling" effect */
 img{
   display: block;
   margin-left: auto;
@@ -26,6 +28,7 @@ img{
   border-radius: 50%;
 }
 
+/* other fonts, colors, spacing */
 p{
   margin-left: 25px;
   font-family: Merriweather, Helvetica, Arial;
@@ -58,6 +61,7 @@ hr.begend{
   padding: 6px;
 }
 
+/* pseudo classes */
 a:link{
   text-decoration: none;
 }
